@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "유셀리"
+  - title: "홈"
     url: https://cheuniss.github.io
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "개발"
+    url: /developer/
+  - title: "회고"
+    url: /retrospect/
+  - title: "패션"
+    url: /fashion/
   # - title: "Sitemap"
   #   url: /sitemap/
