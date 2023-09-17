@@ -1,9 +1,10 @@
 ---
-title: "개발"
-permalink: /categories/developer/
+title: "회고"
+permalink: /categories/retrospect/
 layout: category
 toc: true
 author_profile: true
-taxonomy: 개발
+taxonomy: 회고
 toc_sticky: true 
 --- 
+
