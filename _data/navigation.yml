@@ -8,5 +8,8 @@ main:
     url: /retrospect/
   - title: "패션"
     url: /fashion/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
   # - title: "Sitemap"
   #   url: /sitemap/
