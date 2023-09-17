@@ -3,11 +3,11 @@ main:
   - title: "홈"
     url: https://cheuniss.github.io
   - title: "개발"
-    url: /developer/  
+    url: categories/developer/  
   - title: "회고"
-    url: /retrospect/  
+    url: categories/retrospect/  
   - title: "패션"
-    url: /fashion/
+    url: categories/fashion/
 #    category: "패션"
 #  - title: "Categories"
 #    url: /categories/
