@@ -4,10 +4,13 @@ main:
     url: https://cheuniss.github.io
   - title: "개발"
     url: /developer/
+    category: "개발"
   - title: "회고"
     url: /retrospect/
+    category: "회고"
   - title: "패션"
     url: /fashion/
+    category: "패션"
   - title: "Categories"
     url: /categories/
   - title: "Tags"
