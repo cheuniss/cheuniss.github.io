@@ -20,6 +20,8 @@ last_modified_at: 2019-09-18T14:00:00-05:00
 
 `아디다스 티로23 리그 원드브레이커`
 
+![open](assets/images/fashion/adidas-sma.jpeg)
+
 솔직히 아디다스 져지는 박시하게 입는게 국룰이 아니겠어요. 
 저는 보통 s 아니면 m 을 입는데, 원래 사이즈보다 큰 L을 시켰어요.
 ![close](/assets/images/fashion/adidas-close-sma.jpeg)
