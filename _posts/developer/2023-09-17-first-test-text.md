@@ -1,6 +1,7 @@
 ---
 title:  "첫글을 적어보아요"
 excerpt: "첫글"
+layout: posts
 
 categories:
   - 개발
