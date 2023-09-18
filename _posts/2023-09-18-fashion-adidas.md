@@ -3,9 +3,7 @@ title:  "근처 편하게 나가는 룩"
 excerpt: "꾸안꾸 데일리룩"
 
 categories:
- 
-   - 패션  
-  
+    - 패션  
 tags:
 
   - daily
