@@ -23,7 +23,7 @@ last_modified_at: 2019-09-18T14:00:00-05:00
 ![close](/assets/images/fashion/adidas-sma.jpeg)
 
 <img src="/assets/images/fashion/adidas-close-sma.jpeg" width="90%" height="90%" title="닫힘" alt="로고"/> 
-
+<img src="/assets/images/fashion/adidas-sma.jpeg" width="90%" height="90%" title="열림" alt="아디다스져지"/> 
 
 솔직히 아디다스 져지는 박시하게 입는게 국룰이 아니겠어요. 
 저는 보통 s 아니면 m 을 입는데, 원래 사이즈보다 큰 L을 시켰어요.
