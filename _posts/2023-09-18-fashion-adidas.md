@@ -16,11 +16,13 @@ last_modified_at: 2019-09-18T14:00:00-05:00
 ---
 
 에이블리 리뷰어로 선정 되서 
-아디다스 져지를 받게 되었습니다. `아디다스 티로23 리그 원드브레이커`
+아디다스 져지를 받게 되었습니다. 
+
+`아디다스 티로23 리그 원드브레이커`
 
 솔직히 아디다스 져지는 박시하게 입는게 국룰이 아니겠어요. 
 저는 보통 s 아니면 m 을 입는데, 원래 사이즈보다 큰 L을 시켰어요.
-![image](https://github.com/cheuniss/cheuniss.github.io/blob/c6072d235c208ffef624045cc802f6cb668aee04/assets/images/fashion/adidas-close-sma.jpeg){: width="60%"",height="40%""} 
+![image](../assets/images/fashion/adidas-close-sma.jpeg) 
 
 카페 같은 곳 가면 에어컨이 빵빵해서 추운데, 그때 슬슬 걸쳐주기 좋더라구요
 또, 다른 바람막이 보다 가벼워요, 근데 체온유지의 기능도 너무 훌륭해요, 입었을때 덥다는 느낌이 안들어서 가볍게 챙겨서 입기 좋은거 같아요
