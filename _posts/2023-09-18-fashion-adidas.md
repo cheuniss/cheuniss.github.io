@@ -9,6 +9,9 @@ tags:
   - daily
   - ootd
   - fashion
+  - 에이블리
+  - 에이블리리뷰어
+  - 아디다스
 
 last_modified_at: 2019-09-18T14:00:00-05:00
 ---
