@@ -1,9 +1,9 @@
 ---
 title: "아무런 능력 없이 부모로부터 독립하기"
-excert: "회고1"
+excerpt: "회고1"
 
 categories:
-  - 패션
+  - 회고
 
 tags:
 
