@@ -1,10 +1,10 @@
 ---
-title: "일상"
-permalink: /categories/day/
+title: "독서"
+permalink: /categories/books/
 layout: category
 #toc: true
 author_profile: true
-taxonomy: 일상
+taxonomy: 독서
 toc_sticky: true
 toc_ads : true  
 --- 

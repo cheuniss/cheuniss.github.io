@@ -8,8 +8,8 @@ main:
     url: categories/retrospect/  
   - title: "패션"
     url: categories/fashion/
-  - title: "일상"
-    url: categories/day/
+  - title: "독서"
+    url: categories/books/
   
 #    category: "패션"
 #  - title: "Categories"
